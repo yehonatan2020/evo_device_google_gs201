@@ -16,6 +16,7 @@ rfsd vendor_cbd_prop file b/317734397
 shell sysfs_net file b/329380891
 ssr_detector_app default_prop file b/359428005
 surfaceflinger selinuxfs file b/315104594
+system_server vendor_default_prop file b/366116786
 vendor_init debugfs_trace_marker file b/336451787
 vendor_init default_prop file b/315104479
 vendor_init default_prop file b/315104803
