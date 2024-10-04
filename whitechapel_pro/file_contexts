@@ -15,6 +15,7 @@
 /vendor/bin/trusty_apploader                                                u:object_r:trusty_apploader_exec:s0
 /vendor/bin/trusty_metricsd                                                 u:object_r:trusty_metricsd_exec:s0
 /vendor/bin/dumpsys                                                         u:object_r:vendor_dumpsys:s0
+/vendor/bin/dump/dump_power                                                 u:object_r:dump_power_exec:s0
 /vendor/bin/init\.uwb\.calib\.sh                                            u:object_r:vendor_uwb_init_exec:s0
 /vendor/bin/hw/android\.hardware\.gatekeeper@1\.0-service\.trusty           u:object_r:hal_gatekeeper_default_exec:s0
 /vendor/bin/hw/android\.hardware\.gatekeeper-service\.trusty                u:object_r:hal_gatekeeper_default_exec:s0
